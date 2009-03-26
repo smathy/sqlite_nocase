@@ -1,0 +1,8 @@
+.tags
+*.sw?
+.DS_Store
+log/*
+index/*
+db/*.sqlite3
+tmp
+*.gem
